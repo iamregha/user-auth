@@ -1,0 +1,19 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+body{
+    background-color: #f7f4f9;
+    text-align: center;
+}
+
+
+.empty{
+    background-color: #f3eff6;
+    width: 400px;
+    height: 200px;
+    border-radius: 15px;
+}

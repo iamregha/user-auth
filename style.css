@@ -1,0 +1,20 @@
+
+
+.container{
+    background-color: #ffffff;
+    height: 30rem;
+    width: 20rem;
+    box-sizing: border-box;
+    border-radius: 15px;
+    margin: auto;
+    padding: 30px;
+}
+
+
+
+img{
+    width: 70px;
+    height: 70px;
+    border: 5px solid #f7f3f9;
+    border-radius: 50px;
+}
