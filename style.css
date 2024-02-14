@@ -41,8 +41,8 @@ input[type=text]{
     box-sizing: border-box;
     border-radius: 4px;
     border: 1px solid #d2c2d2;
-    margin-top: 8px;
-}
+    margin-top: 0;
+    }
 
 ::placeholder{
     font-size: 0.6rem;
@@ -75,6 +75,9 @@ button{
 
 label{
     font-size: 0.8rem;
-    ;
+    display: inline-block;
+    width: 15rem;
+    text-align: left;
+    margin-bottom: 8px;
+    font-size: 0.7rem;
 }
-
