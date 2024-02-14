@@ -7,13 +7,16 @@ html{
 
 body{
     background-color: #f7f4f9;
-    text-align: center;
+    /* text-align: center; */
+    font-family: sans-serif;
 }
 
 
 .empty{
     background-color: #f3eff6;
     width: 400px;
-    height: 200px;
+    height: 300px;
     border-radius: 15px;
+    margin-bottom: 50px;
+    
 }

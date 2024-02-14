@@ -8,6 +8,8 @@
     border-radius: 15px;
     margin: auto;
     padding: 30px;
+    font-size: 0.7rem;
+    text-align: center;
 }
 
 
@@ -15,6 +17,64 @@
 img{
     width: 70px;
     height: 70px;
-    border: 5px solid #f7f3f9;
+    border: 7px solid #f7f3f9;
     border-radius: 50px;
 }
+
+p{
+    color: #8f95aa;
+}
+
+a{
+    color: #c6649e;
+}
+
+.privacy{
+    display: flex;
+    padding: 20px;
+}
+
+
+input[type=text]{
+    padding: 10px;
+    width: 15rem;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid #d2c2d2;
+    margin-top: 8px;
+}
+
+::placeholder{
+    font-size: 0.6rem;
+}
+
+button{
+    color: white;
+    background-color: #a20061;
+    border: none;
+    padding: 10px;
+    width: 15rem;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+}
+
+.users{
+    padding: 7px;
+    background-color: #f8f4fa;
+    width: 9rem;
+    margin:10px auto;
+    border-radius: 4px;
+    font-size: 0.55rem;
+
+}
+
+.invite{
+    font-size: 0.5rem;
+}
+
+label{
+    font-size: 0.8rem;
+    ;
+}
+
