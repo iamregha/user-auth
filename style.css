@@ -81,3 +81,7 @@ label{
     margin-bottom: 8px;
     font-size: 0.7rem;
 }
+
+.privacy > p{
+    margin-top: 23px;
+}
